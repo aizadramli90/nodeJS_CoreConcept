@@ -1,0 +1,12 @@
+{
+  "name": "eventemitter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "eventEmitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aizadRamli",
+  "license": "ISC",
+  "description": ""
+}
